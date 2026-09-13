@@ -1,7 +1,7 @@
 {
   "name": "kokedera-theme",
   "displayName": "Kokedera — Moss Temple Theme",
-  "description": "Moss-temple color themes — nine variants across the day, the seasons, and the weather of one garden.",
+  "description": "Nine hand-tuned color themes inspired by forest greens, weathered stone, and warm lantern light — seven dark palettes and two light palettes.",
   "version": "2.0.0",
   "publisher": "7th-Layer",
   "author": {
@@ -27,7 +27,7 @@
     "light",
     "moss",
     "theme",
-    "zen"
+    "temple"
   ],
   "contributes": {
     "themes": [
